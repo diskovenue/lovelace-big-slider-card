@@ -140,7 +140,7 @@ var vt,gt;_t[pt]=!0,_t.elementProperties=new Map,_t.elementStyles=[],_t.shadowRo
         position: absolute;
         top: 0;
         bottom: 0;
-        left: 16px;
+        width: 25%;
         display: flex;
         justify-content: center;
         align-items: center;
@@ -151,8 +151,9 @@ var vt,gt;_t[pt]=!0,_t.elementProperties=new Map,_t.elementStyles=[],_t.shadowRo
 
       #content {
         height: 100%;
-        width: 100%;
-        position: absolute;
+        width: 75%;
+        left: 25%;
+        position: relative;
         display: flex;
         justify-content: flex-start;
         align-items: center;
