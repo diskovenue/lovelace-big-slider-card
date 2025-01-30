@@ -119,8 +119,8 @@ var vt,gt;_t[pt]=!0,_t.elementProperties=new Map,_t.elementStyles=[],_t.shadowRo
       #slider {
         height: 100%;
         position: absolute;
-        background-color: var(--bsc-slider-color);
-        opacity: 0.3;
+        opacity: 1;
+        background-color:  #846a3f;
         left: 0;
         top: 0;
         right: calc(100% - var(--bsc-percent));
@@ -171,9 +171,11 @@ var vt,gt;_t[pt]=!0,_t.elementProperties=new Map,_t.elementStyles=[],_t.shadowRo
 
       #name {
         color: var(--bsc-primary-text-color)
+         font-weight: 500;
       }
 
       #percentage {
         color: var(--bsc-secondary-text-color)
+        font-size: 12px;
       }
     `}}var yt;t([d()],bt.prototype,"_config",void 0),t([d()],bt.prototype,"_entity",void 0),t([d()],bt.prototype,"_state",void 0),t([d()],bt.prototype,"_status",void 0),t([d()],bt.prototype,"_name",void 0),console.info(`%c  BIG-SLIDER-CARD \n%c  ${a("common.version")} 1.1.5    `,"color: orange; font-weight: bold; background: black","color: white; font-weight: bold; background: dimgray"),customElements.define("big-slider-card",bt),window.customCards=null!==(yt=window.customCards)&&void 0!==yt?yt:[],window.customCards.push({type:"big-slider-card",name:"Big Slider Card",description:"Big slider card for light entities."});
