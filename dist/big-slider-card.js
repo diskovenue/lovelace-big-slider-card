@@ -157,7 +157,6 @@ var vt,gt;_t[pt]=!0,_t.elementProperties=new Map,_t.elementStyles=[],_t.shadowRo
         display: flex;
         justify-content: flex-start;
         align-items: center;
-        padding: 0 24px 0 55px;
         box-sizing: border-box;
       }
 
