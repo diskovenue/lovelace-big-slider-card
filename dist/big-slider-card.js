@@ -170,8 +170,8 @@ var vt,gt;_t[pt]=!0,_t.elementProperties=new Map,_t.elementStyles=[],_t.shadowRo
       }
 
       #name {
-        color: var(--bsc-primary-text-color)
-         font-weight: 500;
+        color: var(--bsc-primary-text-color);
+        font-weight: 500;
       }
 
       #percentage {
