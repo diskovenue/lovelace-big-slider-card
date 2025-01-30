@@ -140,7 +140,7 @@ var vt,gt;_t[pt]=!0,_t.elementProperties=new Map,_t.elementStyles=[],_t.shadowRo
         position: absolute;
         top: 0;
         bottom: 0;
-        left: 24px;
+        left: 16px;
         display: flex;
         justify-content: center;
         align-items: center;
@@ -156,7 +156,7 @@ var vt,gt;_t[pt]=!0,_t.elementProperties=new Map,_t.elementStyles=[],_t.shadowRo
         display: flex;
         justify-content: flex-start;
         align-items: center;
-        padding: 0 24px 0 72px;
+        padding: 0 24px 0 55px;
         box-sizing: border-box;
       }
 
